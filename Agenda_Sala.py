@@ -8,7 +8,7 @@ import string
 import datetime
 import sqlite3
 import streamlit.components.v1 as components
-import xlsxwriter
+#import xlsxwriter
 
 #Criação da Página Web-------------------------------------------------------------------------------------------------
 
